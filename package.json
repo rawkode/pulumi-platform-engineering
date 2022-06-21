@@ -5,6 +5,8 @@
 	},
 	"dependencies": {
 		"@pulumi/pulumi": "^3.0.0",
-		"@pulumi/civo": "^2.2.2"
+		"@pulumi/civo": "^2.2.2",
+		"@pulumi/random": "^4.8.0",
+		"@pulumi/kubernetes": "^3.19.4"
 	}
 }
