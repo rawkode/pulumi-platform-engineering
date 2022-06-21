@@ -1,0 +1,15 @@
+{
+  "name": "Pulumi Platform Engineering",
+  "dockerFile": "Dockerfile",
+
+  "extensions": [
+    "firsttris.vscode-jest-runner",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "ms-vsliveshare.vsliveshare",
+    "rtbenfield.vscode-jest-test-adapter",
+    "dbaeumer.vscode-eslint"
+  ],
+  "remoteUser": "node"
+}
